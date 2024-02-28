@@ -5,6 +5,7 @@ import java.util.NoSuchElementException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
 public class ReversePolishNotationCalculatorTest {
     static ReversePolishNotationCalculator calculator;
 
